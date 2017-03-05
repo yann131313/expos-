@@ -1,6 +1,9 @@
 {
   "name": "ma-todolist",
   "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "body-parser": "~1.10.1",
     "cookie-session": "~1.1.0",
